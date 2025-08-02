@@ -1,5 +1,3 @@
-# Brainwave_Matrix_Intern_task2
-
 # 🏥 Healthcare App
 
 This is a user-centered healthcare app built using HTML, CSS, and JavaScript.  
